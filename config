@@ -1,0 +1,8 @@
+deploy_password=wtE5AZXgjpm0qCyY
+mysql_root_password=ShhH04LFSa
+db_pass=ShhH04LFSa
+jwt_secret=OUAKPR8uMFrJvgGAzd0wPhXR0ap66JBD
+jwt_refresh_secret=OUAKPR8uMFrJvgGAzd0wPhXR0ap66JBD27
+deploy_email=contato@wilikechat.com.br
+db_user=postgres
+db_name=whaticket
